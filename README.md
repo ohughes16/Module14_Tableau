@@ -32,5 +32,6 @@ When looking at the breakdown of peak hours that the bikes are utilized, commuti
 
 ## Summary
 ### Suggestions for future analyses 
+For future analyses I would suggest looking at more age-related data. We looked at the correlation of rider age and length of rides, but I would be more interested to know about the ages of subscribers versus customers. 
 
 
