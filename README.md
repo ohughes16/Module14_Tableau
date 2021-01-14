@@ -13,8 +13,10 @@ Investors are considering a bike sharing program in Des Moines, Iowa and want to
 [Link to Story](https://public.tableau.com/profile/olivia.hughes6281#!/vizhome/Module14Deliverable23/Deliverable3)
 
 ![Trips_By_Weekday_perHour](https://user-images.githubusercontent.com/64506842/104532928-3bcb5900-55c6-11eb-8d4c-c4b47cd45a1c.PNG)
+This analysis shows the use of bikes start time and stop time by day of the week.  When looking at the data, it appears that the start time is bimodal with peaks in morning and afternoon commuting hours during the week days and has more steady useage throughout the days on Saturday and Sunday.
 
 ![UserTrips_ByGender_ByWeekday](https://user-images.githubusercontent.com/64506842/104532931-3cfc8600-55c6-11eb-9ab0-ca71d3f76bbc.PNG)
+This analysis looked bike use during week days, with gender of useage broken out and if the user was a subscriber to the bike share system. Subscribers seemed to use the bike share more heavily towards the end of the week, Thursday through Saturday than early week days.
 
 ![Checkout_Time_for_Users](https://user-images.githubusercontent.com/64506842/104532934-3d951c80-55c6-11eb-9276-24812f4870c8.PNG)
 
